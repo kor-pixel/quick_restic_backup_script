@@ -1,0 +1,4 @@
+{
+  "ssh_address": "username@server",
+  "ssh_key": "~/.ssh/key_file"
+}
